@@ -1,5 +1,13 @@
 # CS598DLH-Project-Team106
 
+- Class: CS598 Deep Learning for Healthcare, Spring 2024
+
+- **Project Team #106:**
+
+  *   Zhanchao Yang: zy45@illinois.edu
+  *   Bin Li: binl3@illinois.edu
+  *   Yutang Lin: yutangl2@illinois.edu
+  
 # Dataset link:
 
 1.TCGA_new_pre_first.pckl https://drive.google.com/file/d/1HB7onUJkq0FbSTkrY6-HM2b1DSeU2_ox/view?usp=sharing 
@@ -40,3 +48,7 @@ The CNN models achieved high prediction accuracies and identified cancer markers
 
 # Plan
 Reproducibility suggestions include detailed dataset documentation, code explanations, and exploring alternative data for validation.
+
+# References
+1.  Mostavi, M., Chiu, YC., Huang, Y. et al. Convolutional neural network models for cancer type prediction based on gene expression. BMC Med Genomics 13 (Suppl 5), 44 (2020). https://doi.org/10.1186/s12920-020-0677-2
+
