@@ -1,5 +1,9 @@
 # CS598DLH-Project-Team106
 
+#The datasets links:
+
+TCGA_new_pre_first.pckl https://drive.google.com/file/d/1HB7onUJkq0FbSTkrY6-HM2b1DSeU2_ox/view?usp=sharing TCGA_new_pre_second.pckl https://drive.google.com/file/d/1EGrv4KJiq6oZcXku8eOwQfJkmkZdiifk/view?usp=sharing
+
 # Introduction
 ## Background of the Problem
 The paper focuses on classifying 33 cancer tumors accurately for diagnosis and treatment. Accurate prediction of cancer types is crucial for analyzing disease causes, providing effective treatment, and understanding cancer marker genes' biological correlations. Challenges include tissue origin bias in identifying cancer markers, large databases, and complex calculations.
