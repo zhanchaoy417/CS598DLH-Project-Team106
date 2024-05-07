@@ -58,10 +58,14 @@ The model architecture includes Conv2D layers with specific configurations, trai
 During the elution process, we used the Adam optimizer and the categorical cross-entropy loss function. The Adam optimizer can quickly and efficiently converge to obtain results in large and complex data sets, while the Categorical Cross-Entropy loss function is used to measure the difference between the predicted cancer category probability and the true label
 
 # Results
-Our Results achieved excellent average accuracies 95% among 34 classes (33 cancers and normal). Furthermore, we interpreted the 1D-CNN， Vanilla-CNN, and Hybrid-CNN model with a guided saliency technique and identified a total of 2,090 cancer markers (108 per class).
+- Original Paper Results achieved excellent prediction accuracies (93.9-95.0%) among 34 classes (33 cancers and normal).
+- Our Results achieved excellent average accuracies 95% among 34 classes (33 cancers and normal). Furthermore, we interpreted the 1D-CNN, Vanilla-CNN, and Hybrid-CNN model with a guided saliency technique and identified a total of 2,090 cancer markers (108 per class).
+
+# Analyses
+1D-CNN and 2D-Hybrid-CNN achieved comparable accuracy (95.7%), which improves the result (95.6%) slightly in the previous lecture. Note that 2D-Vanilla-CNN contains only one layer and 32 kernels, whereas the 2D-3LayerCNN consists of multiple DL modules, a much more complex architecture compare to 1D-CNN. The 1D-CNN is significantly simpler than the other models proposed in the literature. The 2D-Vanilla-CNN has around one million hyperparameters which are significantly more than those of the 1D-CNN.
 
 # Discussion
-Reproducibility suggestions include detailed dataset documentation, code explanations, and exploring alternative data for validation.
+The result mentioned in the paper is that the average accuracy range of 34 cancer categories is 93.9% to 95.0%, and our experimental results confirm this conclusion. In 1D CNN, Vanilla, and Hybrid class mean accuracy rates are 95.57%, 95.30% and  95.57%  respectively; the paper is reproducible. Areas of reproducibility include adding other types of CNN models for testing, such as conv1D, or increasing/decreasing k-fold for testing.
 
 # References
 1.  Mostavi, M., Chiu, YC., Huang, Y. et al. Convolutional neural network models for cancer type prediction based on gene expression. BMC Med Genomics 13 (Suppl 5), 44 (2020). https://doi.org/10.1186/s12920-020-0677-2
