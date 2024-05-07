@@ -9,11 +9,15 @@
   *   Yutang Lin: yutangl2@illinois.edu
   *   
 # Video link:
+https://drive.google.com/file/d/1g5Xy-U3QCXO1yTCJuVuxNdT5-qMwTQFX/view?usp=share_link
 
 # Dataset link:
 1. TCGA_new_pre_first.pckl https://drive.google.com/file/d/1HB7onUJkq0FbSTkrY6-HM2b1DSeU2_ox/view?usp=sharing 
 
 2. TCGA_new_pre_second.pckl https://drive.google.com/file/d/1EGrv4KJiq6oZcXku8eOwQfJkmkZdiifk/view?usp=sharing
+
+# Colab notebook Link:
+https://colab.research.google.com/drive/1meyp_tnjhLfjsdFGtzpA0csHGY-tLFxu?authuser=3#scrollTo=dlv6knX04FiY
 
 # Introduction
 ## Background of the Problem
