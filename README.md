@@ -9,7 +9,7 @@
   *   Yutang Lin: yutangl2@illinois.edu
   *   
 # Video link:
-https://drive.google.com/file/d/1g5Xy-U3QCXO1yTCJuVuxNdT5-qMwTQFX/view?usp=share_link
+https://drive.google.com/file/d/1a85QsTsjET7mCBMtcDkGNqeBXrXPYIun/view
 
 # Dataset link:
 1. TCGA_new_pre_first.pckl https://drive.google.com/file/d/1HB7onUJkq0FbSTkrY6-HM2b1DSeU2_ox/view?usp=sharing 
